@@ -1,15 +1,18 @@
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=Jocha007haker&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor count"/>
-  <br/>
-</div>
 
-<div align="center">
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=Jocha007haker&label=Profile%20Views&style=flat" alt="Visitor count"/>
+
+  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Jocha007haker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocha007haker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocha007haker&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jocha007haker&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jocha007haker&theme=tokyo-night&area=true&hide_border=true&days=31" alt="GitHub Activity Graph"/>
+
 </div>
 
 
@@ -35,8 +38,5 @@ Soy desarrollador freelance especializado en la creación de sitios web, aplicac
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jocha007haker&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Jocha007haker&icon=6&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
