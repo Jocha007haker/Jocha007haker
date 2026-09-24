@@ -1,23 +1,15 @@
 <div align="center">
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=Jocha007haker&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor count"/>
+  <br/>
+</div>
 
-  <h3>Profile Visitors</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jocha007haker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
-  <img src="https://profile-counter.deno.dev/Jocha007haker/count.svg" alt="Profile Visitors"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocha007haker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 
-<br><br>
-
-  <a href="https://github.com/Jocha007haker">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jocha007haker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-
-  <a href="https://github.com/Jocha007haker">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocha007haker&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-  </a>
-
-<br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jocha007haker&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jocha007haker&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 
