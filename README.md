@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-  <img src="./profile/stats.svg" alt="GitHub Stats"/>
+  
 
   <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Jocha007haker&theme=tokyonight&layout=compact" alt="Top Languages"/>
 
