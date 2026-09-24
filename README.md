@@ -7,7 +7,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Jocha007haker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocha007haker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Jocha007haker&theme=tokyonight&layout=compact" alt="Top Languages"/>
 
 <br/><br/>
 
