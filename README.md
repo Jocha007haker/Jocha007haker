@@ -1,3 +1,14 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Jocha007haker/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jocha007haker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jocha007haker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jocha007haker&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
 # 💫 About Me:
 Soy desarrollador freelance especializado en la creación de sitios web, aplicaciones, software, APIs y soluciones digitales personalizadas. Cuento con 6 años de aprendizaje y práctica autodidacta en programación, desarrollo de sistemas, redes y ciberseguridad, adquiriendo conocimientos en distintas áreas de la ingeniería informática. Mi experiencia abarca desde el desarrollo frontend y backend hasta bases de datos, APIs, automatización, administración de sistemas y análisis de seguridad. También tengo conocimientos en ciberseguridad y hacking ético, incluyendo redes, vulnerabilidades, análisis de malware y virus, control de accesos, OSINT, seguridad de sistemas y evaluación de superficies de ataque. Me enfoco en crear soluciones funcionales, eficientes y seguras, adaptándome a las necesidades de cada proyecto y buscando constantemente ampliar mis conocimientos mediante la práctica y el aprendizaje independiente.
 
