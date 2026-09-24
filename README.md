@@ -1,17 +1,18 @@
 <div align="center">
+
   <p>Visitor count</p>
   <img src="https://komarev.com/ghpvc/?username=Jocha007haker&label=Visitor%20count&style=flat" alt="Visitor count"/>
-  <br/>
-</div>
 
-<div align="center">
+<br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Jocha007haker&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jocha007haker&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=Jocha007haker&theme=tokyonight&layout=compact" alt="Top Languages"/>
 
-  <br/>
+<br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jocha007haker&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
 </div>
 
 
