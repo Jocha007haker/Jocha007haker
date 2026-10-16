@@ -1,7 +1,8 @@
 <div align="center">
 
   <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=Jocha007haker&label=Visitor%20count&style=flat" alt="Visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=Jocha007haker&label=Profile%20views&style=flat-square&color=blue" alt="Profile views"/>
+
 
 <br/><br/>
 
